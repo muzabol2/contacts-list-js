@@ -3,8 +3,6 @@
 A single webpage that displays a list of contacts
 
 ## Table of contents
-- [contacts-list-ts](#contacts-list-ts)
-  - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshot](#screenshot)
   - [Technologies](#technologies)
@@ -19,7 +17,8 @@ Application allows you to:
 * **Text input** at the top of the list allows you to **filter** the contacts by **first_name** and **last_name**. Searching doesn't cause contacts to become unchecked.
 
 ## Screenshot
-none yet.
+![image](https://user-images.githubusercontent.com/109333068/209843100-849795de-420b-40ad-ad69-4d0ca7bc8cc4.png)
+
 
 ## Technologies
 
@@ -30,7 +29,7 @@ Main:
 Libraries:
 * axios
 * react-lazy-load-image-component
-* 
+
 ## Setup
 Copy repository on your machine. To download all needed dependencies type in command line in the repo's location:
 ```bash
